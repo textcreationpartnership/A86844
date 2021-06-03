@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the wel-affected young men, and apprentises of the City of London: on the behalfe of themselves and many thousands more. To his Excellency Sir Thomas Fairfax, Capt. Gen. of the forces raised for the defence of the kingdom. Together with a congratulatory letter from the agitators in the army to the said petitioners.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86844</idno><idno type="EEBO-CITATION">99862208</idno>
+  <idno type="VID">160378</idno>
+  <idno type="EEBO-PROQUEST">2240956815</idno>
+  
+            <idno type="STC">Wing H3585</idno>
+            <idno type="STC">Thomason E399_2</idno>
+            <idno type="STC">ESTC R201708</idno>
+            <idno type="PROQUEST">99862208</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862208e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160378)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the wel-affected young men, and apprentises of the City of London: on the behalfe of themselves and many thousands more. To his Excellency Sir Thomas Fairfax, Capt. Gen. of the forces raised for the defence of the kingdom. Together with a congratulatory letter from the agitators in the army to the said petitioners.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Lernard, at the Black-more in Bishops-gate street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition, "young" is printed "yovng".</note>
+                  <note>Annotation on Thomason copy: "July 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term type="topical_term">Apprentices --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160378:1"/>
+            <p>THE HVMBLE PETITION OF the <hi>WEL-AFFECTED</hi> YOVNG MEN, and APPRENTISES OF THE CITY OF <hi>LONDON:</hi> On the behalf of themselves and many thousands more. To his Excellency Sr <hi>Thomas Fairfax,</hi> Capt. Gen. of the Forces raised for the defence of the Kingdom. Together with a congratulatory Letter from the AGITATORS in the Army to the said Petitioners.</p>
+            <figure>
+               <figDesc>printers' device or ornament of a bird</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>William Lernard,</hi> at the Black-more in Bishops-gate street. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160378:2"/>
+            <pb n="3" facs="tcp:160378:2"/>
+            <div type="petition">
+               <head>TO HIS EXCELLENCY Sr <hi>THOMAS FAIRFAX,</hi> Capt. Gen. of the Forces raised for the defence of the Kingdome.</head>
+               <head>The humble Petition of Young men, and Appren<g ref="char:EOLhyphen"/>tises of the City of <hi>London,</hi> on the behalfe of themselves and many thousands more.</head>
+               <opener>Sheweth,</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat your Petitioners having many of them, under the conduct of your Excellency, and other worthy Commanders of the Parlia<g ref="char:EOLhyphen"/>ments forces, freely adventured our lives, in indevouring to restore the Kingdoms safety, together wit thhe Native Immunities of every Free-borne sub<g ref="char:EOLhyphen"/>ject, out of their hands who were the professed viola<g ref="char:EOLhyphen"/>ters of the same: in the late vanquishment of whom we had hoped all Arbitrary and Tyrannicall proceed<g ref="char:EOLhyphen"/>ings, destructive to the Common good, had been ter<g ref="char:EOLhyphen"/>minated: And we with all well-minded people ready to be instated into the full possession of these our dear-bought Liberties, which wee had with so much hazard and cost, so long contended for: yet (alas) we have found nothing lesse, but contrarliy, it is too evident, that what those vipers in the formidable shape of foes, could not by force obtaine, they have (under the vizard of friends, by fraud) almost effected, having brought us up<g ref="char:EOLhyphen"/>on the very brink of the most dangersous Gulf of Ty<g ref="char:EOLhyphen"/>ranny and oppression, had it not pleased God to stirre up your Excellency together with your worthy Com<g ref="char:EOLhyphen"/>manders and Souldiers (to your lasting fame) unani<g ref="char:EOLhyphen"/>mously
+<pb n="4" facs="tcp:160378:3"/> to enterpose your helpe for preventing the Kingdomes ruine; as appears by your late Declarati<g ref="char:EOLhyphen"/>on, Remonstrance, and other Representations to the Parliament and City: and by the whole course of your just and reasonable proceedings. Notwithstanding which, it is a great astonishment to us (and all true lo<g ref="char:EOLhyphen"/>vers of their Countries welfare, to behold the most un<g ref="char:EOLhyphen"/>just proceedings of a great number of men, in the City, who have lately wrung cut of the hands of the Parlia<g ref="char:EOLhyphen"/>ment, an unlimitted power of disposing the Militia here, which they have abused to the great dishonour of the Parliament, and destruction of the Subjects Li<g ref="char:EOLhyphen"/>berty, by casting out a great many of Officers out of the severall Regiments and Companies of the Cities Souldiety, who were all of them men of known fideli<g ref="char:EOLhyphen"/>ty and valour, and without any rightfull proceeding a<g ref="char:EOLhyphen"/>gainst them, either Civil or Martial; most of them like<g ref="char:EOLhyphen"/>wise being such as have beene most forward and active, in the times of greatest neede and exigency: which their Arbitrary and unjust proceedings too much con<g ref="char:EOLhyphen"/>firmes us in the feare of, in their evil intentions, to the peace of the Kingdom, whatsoever they pretend to the contrary.</p>
+               <p>And now, as your Excellecy and the Army under your Command, have (through the goodnes of God) meerly out of pitty to a bleeding Kingdome, put your selves upon the hazard of what the contrivance of your malitious and potent enemies are able to effect a<g ref="char:EOLhyphen"/>gainst you: Wee your Petitioners (together with all well-disposed people) both in City and Country, can<g ref="char:EOLhyphen"/>not but owne your Army as (under God) our deliver<g ref="char:EOLhyphen"/>ers out of the jawes of inevitable slavery, ready to de<g ref="char:EOLhyphen"/>vour
+<pb n="5" facs="tcp:160378:3"/> us and our posterity, and doe hereby declare our selves ready to the utmost of our abilities, to contribute our best assistance in helping forward the wished esta<g ref="char:EOLhyphen"/>blishment of Freedom and Peace, to facilitate which happy work, we trust God will be pleased to blast the designes of all declared and secret opposers, and that wee may appeare not to bee the most backward in the promoting of the Kingdomes wished settlement, wee in the name of agreat number more of our fellows are bold to present unto you the following Requ<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sts.</p>
+               <p n="1">1. That you would be pleased with all possible ex<g ref="char:EOLhyphen"/>pedition to go on in effecting what you have so happi<g ref="char:EOLhyphen"/>ly begun, tending to the establishment of the peace and tranquility of this distracted Kingdome, and that you will neuer desist till you have procured a firm and free enjoyment of the indubitable rights of Prince and peo<g ref="char:EOLhyphen"/>ple, in a lasting and united conjunction of Peace and Freedom, and to the utter overthrow of all Arbitrary and Tyrannicall power, in whomsoever it is: that so it may appear to all the world you have had no selfish de<g ref="char:EOLhyphen"/>signe, but cordially and really seeke the welfare of the Kingdom.</p>
+               <p n="2">2. That you would bee very earnest with the City Commissioners to know the grounds of the late unrea<g ref="char:EOLhyphen"/>sonable proceedings of the new Militia, and to procure the reducement of it to the former or a better way.</p>
+               <p n="3">3. That you would bee pleased to looke upon us, who bear the name of the well-affected Young men and Apprentises of the City of <hi>London,</hi> as such who va<g ref="char:EOLhyphen"/>ry not from what we have alway declared our selves to be, which that we may bee able to manifest, wee shall expect, and humbly desire your Excellencies and the
+<pb n="6" facs="tcp:160378:4"/> Armies protection, in case wee shall by the power of some malevolent Spirits here, be inforced to any thing inconsistent with the principles of Free-borne subjects of England.</p>
+               <p>And what rests within the sphere of our Capacity wee shall bee most ready to serve your Excellency and the Army in, for the good and benefit of the Kingdom: In the mean time.</p>
+               <closer>we pray &amp;c.</closer>
+            </div>
+            <div type="letter">
+               <head>For our Honourled Friends, the Apprentises of the City of London, these present.</head>
+               <opener>
+                  <salute>Worthy and much respected Friends,</salute>
+               </opener>
+               <p>Having received your desires, specified in your Petiti<g ref="char:EOLhyphen"/>on to his Excellency, by those Gentlemen sent from you, to be presented to us for our advice and approbation, we have with an unanimous and cheerfull consent declar<g ref="char:EOLhyphen"/>ed our wel liking and joyful recentment of them, and with all speed sent them to his Excellency our Generall whereby you might receive some answer su<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able to the temper of your c<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tion, which wha<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hath been, and also how sa<g ref="char:EOLhyphen"/>tisfactory, we desire to be referred to those Gentlemen you have imployed to (and now are returned from) us; It is none of the least mercys God hath afforded us, that he hath put it into your hearts so seasonably to give in your selves to our assistance and encouragement. Wee have formerly been told of the numbers and forwardnesse of ours and the Kingdomes friends in your City, and were very apt to be<g ref="char:EOLhyphen"/>leeve the truth thereof, but now are wee past all doubts herein, for by so large a testimony of your affections under
+<pb n="7" facs="tcp:160378:4"/> your hands, together with the relation those <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> made unto <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: wee <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> both seen and heard that it is so indeede, that any in the f<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eest capa<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ities that may bee, should in this time of great difficulty and opp<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sition stand up and appear for their own and the Kingdomes L<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ties <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> very acceptable and a greatt mercy: But <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der years that seem to ly under some restrain<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the eys o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> strict Masters constantly upon you, <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> should encounter difficulties, find out times and steal op<g ref="char:EOLhyphen"/>portunities to burden your selves with thoughts of the Kingdomes welfare, and should bee so publicke spirited as to have the good of the people in your eyes rather the<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> su<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h things (as many of your capacities (to whit) dayes of Recreation and the like, though not unfiting in themselves neither have done) as might more neerly concerne your selves, in such a providence and work of God upon your spi<g ref="char:EOLhyphen"/>rits as we think few times can paralell.</p>
+               <p>We would not be tedious, and yet would manifest what can did receptions your endeavours have found amongst us, we shall desire you to persevere in your good Resoluti<g ref="char:EOLhyphen"/>ons, and not to be terrified with anything you may meete with, assuring you we shall further your just desires as far as possibly we may; and that your safety shall be equally before us with our own. So we leave you to his protection who hath so extraordinarily raised your spirits to so good a work, and subscribe our selves,</p>
+               <closer>
+                  <dateline>Reading <date>11. July 1647.</date>
+                  </dateline>
+                  <signed>Yours and the Kingdoms servants, <hi>Fra<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>. Allen, cap. W. Knowles, cap. F. L. lieut. Edm. Chille<gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>den. leiut. Edw. Orpin, cap. George Joyce. Joseph Wallington, captain lievetenat. Henry Flower, cap. C. Fox, lieut. R. K. cap. Ed. Sepbe,
+<pb n="8" facs="tcp:160378:5"/> Samuel Whiteing. William Allin. Iohn Barnes. Nicholas Lockyer. Tho. Buttery. William Young. Thomas Kendall. Barth. Willocke. Richard Clarke. Nathaniel Fester. Iohn Wilson. Richard Salter. George Stenson. Nathaniel Foxgil. Henry Hill. W. Wilkinson. Edward Vaughan. Dan. Hineksman. Edmund Garne. Robert Mason. Iohn Anderton. Richard Colbrand.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
